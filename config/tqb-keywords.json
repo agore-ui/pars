@@ -1,0 +1,46 @@
+{
+  "keywords": {
+    "high_priority": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "AWS",
+      "Docker"
+    ],
+    "medium_priority": [
+      "TypeScript",
+      "Vue.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Kubernetes",
+      "Git"
+    ],
+    "low_priority": [
+      "CSS",
+      "HTML",
+      "jQuery",
+      "Bootstrap"
+    ]
+  },
+  "locations": {
+    "priority": [
+      "Москва",
+      "Санкт-Петербург",
+      "Удалённо"
+    ]
+  },
+  "salary_min": 150000,
+  "experience_level": [
+    "Senior",
+    "Middle",
+    "Junior"
+  ],
+  "company_types": [
+    "IT",
+    "SaaS",
+    "Startup",
+    "Product"
+  ]
+}
